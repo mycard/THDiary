@@ -1,2 +1,2 @@
-# Book Example
+# 幻想乡日记
 
